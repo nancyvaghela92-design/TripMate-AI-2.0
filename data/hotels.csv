@@ -1,0 +1,176 @@
+Destination,Hotel,Rating,Price,Type
+Goa,Taj Resort Goa,5,8500,Luxury
+Goa,Novotel Goa,4,5000,Premium
+Goa,Bloom Hotel Goa,3,2500,Budget
+Goa,Le Meridien Goa,5,9500,Luxury
+Goa,Fairfield by Marriott Goa,4,6200,Premium
+Goa,Ginger Goa,3,2200,Budget
+
+Manali,The Himalayan,5,9000,Luxury
+Manali,Snow Valley Resort,4,4500,Premium
+Manali,Hotel Greenfields,3,2200,Budget
+Manali,Span Resort & Spa,5,10500,Luxury
+Manali,The Orchard Greens,4,4200,Premium
+Manali,Hotel Mountain Face,3,2000,Budget
+
+Jaipur,Rambagh Palace,5,15000,Luxury
+Jaipur,Golden Tulip,4,6000,Premium
+Jaipur,Hotel Pearl Palace,3,2000,Budget
+Jaipur,Hilton Jaipur,5,12000,Luxury
+Jaipur,Lemon Tree Premier,4,5500,Premium
+Jaipur,Hotel Arya Niwas,3,2400,Budget
+
+Paris,Hotel Ritz Paris,5,30000,Luxury
+Paris,Novotel Paris,4,12000,Premium
+Paris,Ibis Paris,3,7000,Budget
+Paris,Le Meurice,5,35000,Luxury
+Paris,Mercure Paris Centre,4,11000,Premium
+Paris,B&B Hotel Paris,3,6500,Budget
+
+Tokyo,Park Hyatt Tokyo,5,28000,Luxury
+Tokyo,Shinjuku Washington Hotel,4,10000,Premium
+Tokyo,Sakura Hotel,3,4500,Budget
+Tokyo,The Ritz-Carlton Tokyo,5,36000,Luxury
+Tokyo,Hotel Gracery Shinjuku,4,9500,Premium
+Tokyo,APA Hotel Tokyo,3,4800,Budget
+
+Dubai,Burj Al Arab,5,45000,Luxury
+Dubai,Hilton Dubai Palm,4,18000,Premium
+Dubai,Citymax Hotel,3,5500,Budget
+Dubai,Atlantis The Palm,5,40000,Luxury
+Dubai,Rove Downtown,4,9000,Premium
+Dubai,Ibis Al Rigga,3,5000,Budget
+
+London,The Savoy,5,32000,Luxury
+London,Holiday Inn London,4,14000,Premium
+London,Travelodge London,3,8000,Budget
+London,The Ritz London,5,38000,Luxury
+London,Premier Inn London,4,10000,Premium
+London,EasyHotel London,3,6500,Budget
+
+New York,The Plaza Hotel,5,35000,Luxury
+New York,Hilton Times Square,4,17000,Premium
+New York,Pod Times Square,3,9000,Budget
+New York,Four Seasons NYC,5,42000,Luxury
+New York,Hyatt Place Manhattan,4,16000,Premium
+New York,The Jane Hotel,3,7500,Budget
+
+Singapore,Marina Bay Sands,5,30000,Luxury
+Singapore,Carlton Hotel,4,12000,Premium
+Singapore,Hotel Boss,3,6500,Budget
+Singapore,Fullerton Hotel,5,28000,Luxury
+Singapore,Holiday Inn Orchard,4,11500,Premium
+Singapore,ibis Budget Singapore,3,5500,Budget
+
+Bali,The Mulia Bali,5,25000,Luxury
+Bali,Courtyard Bali,4,9000,Premium
+Bali,Grandmas Plus Hotel,3,3000,Budget
+Bali,Ayana Resort,5,27000,Luxury
+Bali,Swiss-Belhotel Bali,4,8000,Premium
+Bali,Fame Hotel Bali,3,2800,Budget
+
+Maldives,Soneva Jani,5,65000,Luxury
+Maldives,Adaaran Select,4,28000,Premium
+Maldives,Arena Beach Hotel,3,9000,Budget
+Maldives,Baros Maldives,5,60000,Luxury
+Maldives,Meeru Island Resort,4,25000,Premium
+Maldives,Kaani Village,3,8500,Budget
+
+Shimla,Wildflower Hall,5,18000,Luxury
+Shimla,Snow Valley Shimla,4,6000,Premium
+Shimla,Hotel Willow Banks,3,2800,Budget
+Shimla,The Oberoi Cecil,5,16000,Luxury
+Shimla,Hotel Combermere,4,5200,Premium
+Shimla,Hotel Sukh Sagar,3,2200,Budget
+
+Ooty,Savoy Ooty,5,12000,Luxury
+Ooty,Fortune Resort Sullivan Court,4,6500,Premium
+Ooty,Hotel Preethi Palace,3,2500,Budget
+Ooty,Sterling Ooty Elk Hill,5,11500,Luxury
+Ooty,Glyngarth Resort,4,6200,Premium
+Ooty,Hotel Lakeview,3,2300,Budget
+
+Kerala,Kumarakom Lake Resort,5,17000,Luxury
+Kerala,The Raviz Kovalam,4,7500,Premium
+Kerala,Treebo Trend Hotel,3,2600,Budget
+Kerala,Taj Bekal Resort,5,18000,Luxury
+Kerala,Fragrant Nature Kochi,4,7000,Premium
+Kerala,Hotel Abad Plaza,3,2400,Budget
+
+Agra,The Oberoi Amarvilas,5,20000,Luxury
+Agra,Crystal Sarovar Premiere,4,6500,Premium
+Agra,Hotel Taj Resorts,3,2800,Budget
+Agra,ITC Mughal,5,15000,Luxury
+Agra,Howard Plaza,4,5500,Premium
+Agra,Hotel Alpine,3,2300,Budget
+
+Mumbai,Taj Mahal Palace,5,22000,Luxury
+Mumbai,The Orchid Hotel,4,8000,Premium
+Mumbai,Ginger Mumbai,3,3200,Budget
+Mumbai,Trident Nariman Point,5,21000,Luxury
+Mumbai,Lemon Tree Mumbai,4,7200,Premium
+Mumbai,Hotel Suba Palace,3,3000,Budget
+
+Delhi,The Leela Palace,5,19000,Luxury
+Delhi,Radisson Blu Dwarka,4,7000,Premium
+Delhi,Bloomrooms New Delhi,3,2800,Budget
+Delhi,ITC Maurya,5,18000,Luxury
+Delhi,Lemon Tree Aerocity,4,6800,Premium
+Delhi,Hotel City Star,3,2600,Budget
+
+Udaipur,Taj Lake Palace,5,25000,Luxury
+Udaipur,Trident Udaipur,4,8500,Premium
+Udaipur,Madri Haveli,3,3000,Budget
+Udaipur,The Oberoi Udaivilas,5,35000,Luxury
+Udaipur,Hotel Lakend,4,7200,Premium
+Udaipur,Hotel Boheda Palace,3,2700,Budget
+
+Darjeeling,Mayfair Darjeeling,5,15000,Luxury
+Darjeeling,Summit Swiss Heritage,4,5200,Premium
+Darjeeling,Hotel Seven Seventeen,3,2100,Budget
+Darjeeling,Cedar Inn,5,13000,Luxury
+Darjeeling,Sinclairs Darjeeling,4,4800,Premium
+Darjeeling,Hotel Broadway,3,2000,Budget
+
+Destination,Hotel,Rating,Price,Type
+Mysore,Radisson Blu Mysore,5,10500,Luxury
+Mysore,Royal Orchid Metropole,4,6200,Premium
+Mysore,Hotel Roopa,3,2200,Budget
+Mysore,Fortune JP Palace,5,9800,Luxury
+Mysore,Grand Mercure Mysore,4,6800,Premium
+Mysore,Treebo Trend Akshaya,3,2100,Budget
+
+Rishikesh,Taj Rishikesh Resort,5,16500,Luxury
+Rishikesh,Aloha on the Ganges,4,7200,Premium
+Rishikesh,Shiv Shakti Hostel,3,1800,Budget
+Rishikesh,Divine Resort & Spa,5,15000,Luxury
+Rishikesh,EllBee Ganga View,4,6500,Premium
+Rishikesh,Hotel Ishan,3,2400,Budget
+
+Kashmir,The Khyber Himalayan Resort,5,22000,Luxury
+Kashmir,Fortune Resort Heevan,4,8500,Premium
+Kashmir,Hotel Pine Spring,3,3200,Budget
+Kashmir,WelcomHotel Pine N Peak,5,18500,Luxury
+Kashmir,Hotel Hilltop,4,6200,Premium
+Kashmir,Hotel New Green View,3,2800,Budget
+
+Pondicherry,Palais de Mahe,5,13000,Luxury
+Pondicherry,Accord Puducherry,4,7000,Premium
+Pondicherry,Hotel Coramandal Heritage,3,2600,Budget
+Pondicherry,Le Pondy Resort,5,14500,Luxury
+Pondicherry,Anandha Inn,4,5800,Premium
+Pondicherry,Treebo Grace Inn,3,2400,Budget
+
+Munnar,Blanket Hotel & Spa,5,12500,Luxury
+Munnar,Amber Dale Luxury Hotel,4,6800,Premium
+Munnar,Green Ridge Holiday Home,3,2200,Budget
+Munnar,Parakkat Nature Resort,5,11800,Luxury
+Munnar,Eastend Munnar,4,5900,Premium
+Munnar,Bellmount Resorts,3,2500,Budget
+
+Ladakh,The Grand Dragon Ladakh,5,18500,Luxury
+Ladakh,The Zen Ladakh,4,8200,Premium
+Ladakh,Hotel Omasila,3,2800,Budget
+Ladakh,Ladakh Sarai Resort,5,17000,Luxury
+Ladakh,Hotel Lingzi,4,6500,Premium
+Ladakh,Hotel Kidar,3,2300,Budget

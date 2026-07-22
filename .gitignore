@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# Database
+tripmate.db
+
+# Generated Files
+*.pdf
+*.xlsx
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
