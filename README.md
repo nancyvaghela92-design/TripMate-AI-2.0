@@ -38,7 +38,7 @@ https://tripmate-ai-20.streamlit.app/
 
 ### 🏠 Home Page
 
-![Home](HOME.png)
+![Home](home.png)
 ---
 
 ## 📂 Project Structure
