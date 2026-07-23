@@ -5,6 +5,9 @@ An AI-powered travel planning application built with **Python**, **Streamlit**, 
 TripMate AI 2.0 helps users plan trips, generate AI itineraries, discover hotels, calculate travel budgets, check weather, and manage saved trips—all in one place.
 
 ---
+## 🌐 Live Demo
+
+https://tripmate-ai-20-ecrcn4xypq2p226uwvfpib.streamlit.app/
 
 ## 🌟 Features
 
