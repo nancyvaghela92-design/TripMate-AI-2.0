@@ -36,6 +36,9 @@ https://tripmate-ai-20.streamlit.app/
 - OpenPyXL
 - ReportLab
 
+### 🏠 Home Page
+
+![Home](HOME.png)
 ---
 
 ## 📂 Project Structure
