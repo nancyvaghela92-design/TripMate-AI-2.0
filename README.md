@@ -7,7 +7,7 @@ TripMate AI 2.0 helps users plan trips, generate AI itineraries, discover hotels
 ---
 ## 🌐 Live Demo
 
-https://tripmate-ai-20-ecrcn4xypq2p226uwvfpib.streamlit.app/
+https://tripmate-ai-20.streamlit.app/
 
 ## 🌟 Features
 
