@@ -14,7 +14,11 @@ def show():
 
     <h1>🌍 TripMate AI 2.0</h1>
 
-    <p>Plan Your Dream Journey With Artificial Intelligence</p>
+    <p>
+    Plan smarter. Travel better.<br>
+    Create AI-powered itineraries, discover hotels,<br>
+    track budgets, and explore the world with confidence.
+    </p>
 
     </div>
     """, unsafe_allow_html=True)
@@ -22,32 +26,48 @@ def show():
     col1, col2 = st.columns(2)
 
     with col1:
-        st.button("✈ Start Planning", use_container_width=True)
+        if st.button("✈ Start Planning", use_container_width=True):
+            st.session_state.page = "🗺 Trip Planner"
+            st.rerun()
 
     with col2:
-        st.button("🌎 Explore Destinations", use_container_width=True)
-
+        if st.button("🌎 Explore Destinations", use_container_width=True):
+            st.session_state.page = "🏨 Hotels"
+            st.rerun()
     st.write("")
 
-    st.header("📈 Your TripMate Dashboard")
+    st.subheader("📊 Dashboard Overview")
+    st.caption("Track your trips and travel activity at a glance.")
 
-    d1, d2, d3, d4 = st.columns(4)
+    d1, d2 = st.columns(2)
 
-    d1.metric("🗺️ Trips", total_trips())
-    d2.metric("❤️ Favorites", total_favorites())
-    d3.metric("🌍 Top Destination", most_popular_destination())
-    d4.metric("👨‍👩‍👧 Avg Travelers", average_travelers())
+    with d1:
+        st.metric("🗺 Trips", total_trips())
+
+    with d2:
+        st.metric("❤️ Favorites", total_favorites())
+
+    d3, d4 = st.columns(2)
+
+    with d3:
+        st.metric("🌍 Top Destination", most_popular_destination())
+
+    with d4:
+        st.metric("👨‍👩‍👧 Avg Travelers", average_travelers())
 
     st.divider()
 
     st.header("📊 TripMate Statistics")
 
-    c1,c2,c3,c4=st.columns(4)
+    c1, c2 = st.columns(2)
 
-    c1.metric("Destinations","500+")
-    c2.metric("Hotels","2000+")
-    c3.metric("Users","10K+")
-    c4.metric("Rating","1.9⭐")
+    c1.metric("🌍 Destinations", "500+")
+    c2.metric("🏨 Hotels", "2000+")
+
+    c3, c4 = st.columns(2)
+
+    c3.metric("👥 Users", "10K+")
+    c4.metric("⭐ Rating", "4.1")
 
     st.divider()
 
@@ -93,12 +113,30 @@ def show():
 
     st.divider()
 
-    st.success("🤖 AI Powered Travel Recommendations")
+    st.subheader("✨ Why Choose TripMate AI?")
 
-    st.success("💰 Budget Calculator")
+    left, right = st.columns(2)
 
-    st.success("🏨 Hotel Recommendation")
+    with left:
+        st.success("🤖 AI Travel Planner")
+        st.success("🏨 Hotel Recommendations")
+        st.success("🌤 Live Weather")
 
-    st.success("🌤 Live Weather")
+    with right:
+        st.success("💰 Budget Calculator")
+        st.success("❤️ Save Favorite Hotels")
+        st.success("📄 PDF & Excel Export")
 
-    st.success("🗺 Smart Itinerary Planner")
+    st.divider()
+
+    st.markdown(
+    """
+    <div style="text-align:center; color:gray; padding:20px;">
+        <h4>✈️ TripMate AI 2.0</h4>
+        <p>Developed by <b>Nancy Vaghela</b></p>
+        <p>Powered by Python • Streamlit • Gemini AI</p>
+        <p>© 2026 All Rights Reserved</p>
+    </div>
+    """,
+    unsafe_allow_html=True
+    )

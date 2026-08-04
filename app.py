@@ -32,6 +32,7 @@ create_favorite_table()
 # ---------------- Sidebar ----------------
 
 page = show_sidebar()
+st.session_state.page = page
 
 # ---------------- Load Theme ----------------
 
